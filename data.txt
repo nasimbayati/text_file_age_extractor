@@ -1,0 +1,5 @@
+John Adams            25
+Patrick Henry         30
+Thomas Jefferson      19
+George Washington     28
+Alexander Hamilton    15
